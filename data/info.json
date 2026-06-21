@@ -1,14 +1,26 @@
 {
-	"students": {
-		"lastUpdatedAt": "2026-04-14T19:12:55.597Z",
-		"changelog": "Added Takane"
-	},
-	"equipment": {
-		"lastUpdatedAt": "2026-04-14T19:12:55.597Z",
-		"changelog": "Added Takane's equipment"
-	},
-	"items": {
-		"lastUpdatedAt": "2026-04-14T19:12:55.597Z",
-		"changelog": "Added Takane's items"
-	}
+  "program": {
+    "lastUpdatedAt": "",
+    "changelog": "",
+  },
+  "students": {
+    "lastUpdatedAt": "2026-04-14T19:12:54.597Z",
+	  "filename": "students260414_1.min.json",
+    "changelog": "Added Takane",
+  },
+  "items": {
+    "lastUpdatedAt": "",
+    "filename": "",
+    "changelog" : ""
+  },
+  "equipment": {
+    "lastUpdatedAt": "",
+    "filename": "",
+    "changelog" : ""
+  },
+  "misc": {
+    "lastUpdatedAt": "",
+    "filename": "",
+    "changelog" : ""
+  }
 }
