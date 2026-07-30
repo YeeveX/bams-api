@@ -1,25 +1,25 @@
 {
   "program": {
-    "lastUpdatedAt": "2026-06-21T19:12:54.597Z",
+    "lastUpdatedAt": "2026-06-21T21:12:54.597Z",
     "changelog": "",
   },
   "students": {
-    "lastUpdatedAt": "2026-06-21T19:12:54.597Z",
+    "lastUpdatedAt": "2026-06-21T21:12:54.597Z",
 	  "filename": "students260414_1.min.json",
     "changelog": "Added Takane",
   },
   "items": {
-    "lastUpdatedAt": "2026-06-21T19:12:54.597Z",
+    "lastUpdatedAt": "2026-06-21T21:12:54.597Z",
     "filename": "",
     "changelog" : ""
   },
-  "equipment": {
-    "lastUpdatedAt": "2026-06-21T19:12:54.597Z",
+  "gear": {
+    "lastUpdatedAt": "2026-06-21T21:12:54.597Z",
     "filename": "",
     "changelog" : ""
   },
   "misc": {
-    "lastUpdatedAt": "2026-06-21T19:12:54.597Z",
+    "lastUpdatedAt": "2026-06-21T21:12:54.597Z",
     "filename": "",
     "changelog" : ""
   }
